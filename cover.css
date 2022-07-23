@@ -12,8 +12,6 @@
  * Base structure
  */
 
-body {
-}
 
 /*
  * Header
@@ -31,8 +29,7 @@ body {
   z-index: -1;
   height: 100%;
   width: 100%;
-  background: black;
-  opacity: 50%;
+  background: rgba(0, 0, 0, 0.5);
   position: absolute;
   top: 0;
 }
